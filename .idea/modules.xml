@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Patika Projeleri.iml" filepath="$PROJECT_DIR$/.idea/Patika Projeleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdvHesaplama/kdvHesaplama.iml" filepath="$PROJECT_DIR$/kdvHesaplama/kdvHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notOrtalamasiHesaplama/notOrtalamasiHesaplama.iml" filepath="$PROJECT_DIR$/notOrtalamasiHesaplama/notOrtalamasiHesaplama.iml" />
+    </modules>
+  </component>
+</project>
