@@ -15,15 +15,15 @@ public class Main {
         int banana = input.nextInt();
         System.out.println("Patlican Kilogramini Giriniz");
         int aubergine = input.nextInt();
-        double appleKgPrice =3.67;
-        double pearKgPrice =2.14;
+        double appleKgPrice = 3.67;
+        double pearKgPrice = 2.14;
         double tomatoKgPrice = 1.11;
-        double bananaKgPrice =0.95;
-        double aubergineKgPrice =5.00;
-        double totalPrice = (appleKgPrice*apple+pearKgPrice*pear+tomatoKgPrice*tomato+bananaKgPrice*banana
-        +aubergineKgPrice*aubergine);
+        double bananaKgPrice = 0.95;
+        double aubergineKgPrice = 5.00;
+        double totalPrice = (appleKgPrice * apple + pearKgPrice * pear + tomatoKgPrice * tomato + bananaKgPrice * banana
+                + aubergineKgPrice * aubergine);
 
-        System.out.println("Total Price = " +String.format("%.2f",totalPrice) + " TL" );
+        System.out.println("Total Price = " + String.format("%.2f", totalPrice) + " TL");
 
 
     }
